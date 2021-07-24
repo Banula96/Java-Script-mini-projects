@@ -12,9 +12,7 @@ btns.forEach(function(btn){
        }else{
            count = 0;
        }
-       if(value>0){
-           count.styles.color = 'green';
-       }
+       
        value.textContent = count;
     })
 });
