@@ -1,0 +1,21 @@
+* {
+  background-color: aliceblue;
+  padding: 0;
+  margin: 0;
+}
+.container {
+  padding-top: 100px;
+  padding-left: 100px;
+  align-items: center;
+  justify-content: center;
+}
+#value {
+  background-color: aqua;
+  font-size: 75px;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  box-sizing: border-box;
+  font-size: 25px;
+}
